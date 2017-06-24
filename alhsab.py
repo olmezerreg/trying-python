@@ -41,6 +41,15 @@ def area_triangle():
 	print "the area  is ",area ;	
 area_triangle()
 
+#the arai of trapeze
+                                                                                      
+def area_trapeze():
+	small_base=input("plaes enter your small base : ");
+	big_base =input("plaes enter your big base  : ");
+	height =input("plaes enter your height  : ");
+	area  = ((big_base + small_base)*height)/2
+	print "the area  is ",area ;	
+area_trapeze()
 
 
 

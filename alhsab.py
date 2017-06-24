@@ -23,8 +23,13 @@ def area_square():
 	
 area_square()
 
+#the arai of cercle
+def area_cercle():
+ radius=input("plaes enter your radius : ");
+ area=(radius**2)*3.14
+ print "the area  is ",area ;
 
-
+area_cercle()
 
 
 

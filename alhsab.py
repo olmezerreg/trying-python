@@ -32,6 +32,14 @@ def area_cercle():
 area_cercle()
 
 
+#the arai of triangle
+                                                                                      
+def area_triangle():
+	base=input("plaes enter your base : ");
+	height =input("plaes enter your height  : ");
+	area  = (base * height)/2
+	print "the area  is ",area ;	
+area_triangle()
 
 
 
